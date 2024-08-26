@@ -29,9 +29,9 @@ Ce projet consiste à développer une application web complète en utilisant Sym
 
 ##### Fonctionnalités Clés :
 
-CRUD Produits : Gestion des produits avec des attributs tels que nom, catégorie, référence, image, prix, quantité en stock, etc.
-CRUD Catégories : Gestion des catégories de produits.
-CRUD Paniers : Gestion des paniers, y compris l'ajout de produits, calcul du prix total, et suivi du statut de paiement.
+- CRUD Produits : Gestion des produits avec des attributs tels que nom, catégorie, référence, image, prix, quantité en stock, etc.
+- CRUD Catégories : Gestion des catégories de produits.
+- CRUD Paniers : Gestion des paniers, y compris l'ajout de produits, calcul du prix total, et suivi du statut de paiement.
 
 #### Backend Symfony
 
